@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/haptikassignment/static/css/main.003ee958.css",
-    "main.js": "/haptikassignment/static/js/main.8f28ecd6.js",
-    "static/js/787.d79a22aa.chunk.js": "/haptikassignment/static/js/787.d79a22aa.chunk.js",
-    "index.html": "/haptikassignment/index.html",
-    "main.003ee958.css.map": "/haptikassignment/static/css/main.003ee958.css.map",
-    "main.8f28ecd6.js.map": "/haptikassignment/static/js/main.8f28ecd6.js.map",
-    "787.d79a22aa.chunk.js.map": "/haptikassignment/static/js/787.d79a22aa.chunk.js.map"
+    "main.css": "./static/css/main.003ee958.css",
+    "main.js": "./static/js/main.7fb78489.js",
+    "static/js/787.d79a22aa.chunk.js": "./static/js/787.d79a22aa.chunk.js",
+    "index.html": "./index.html",
+    "main.003ee958.css.map": "./static/css/main.003ee958.css.map",
+    "main.7fb78489.js.map": "./static/js/main.7fb78489.js.map",
+    "787.d79a22aa.chunk.js.map": "./static/js/787.d79a22aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.003ee958.css",
-    "static/js/main.8f28ecd6.js"
+    "static/js/main.7fb78489.js"
   ]
 }
