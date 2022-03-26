@@ -10,7 +10,9 @@ const Friend = ({
   return (
     <div className="friendWrapper">
       <div className="friendDetails">
-        <div className="name">{name}</div>
+        <div className="name" title={name}>
+          {name}
+        </div>
         <div className="text">is Your Friend</div>
       </div>
       <div className="actions">
